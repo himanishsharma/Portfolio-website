@@ -31,3 +31,6 @@ Computer Science student in the UBITS dual-degree program (BITS Pilani & Univers
 * Email: [himanishsharma21@gmail.com](mailto:himanishsharma21@gmail.com)
 * LinkedIn: https://linkedin.com/in/himanish-sharma
 * GitHub: https://github.com/himanishsharma
+
+## 🌍 Live Portfolio
+https://himanishsharma.github.io/Portfolio-website/
